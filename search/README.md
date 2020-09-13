@@ -1,6 +1,6 @@
 ## Utility for search strings in text file
 ### Menu --help
-**Usage: [OPTIONS] STRING FILENAME **
+**Usage: [OPTIONS] STRING FILENAME**
 
   Argument **STRING** and **FILENAME** is required  
 
