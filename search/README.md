@@ -11,6 +11,6 @@ Options:
   **-v**      Output string inversion  
   **--help**  Show this message and exit  
 
-# Setup
+## Setup
 
 **pip install click**
