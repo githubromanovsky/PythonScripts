@@ -1,4 +1,4 @@
-## Utility for search strings in text file
+# Utility for search strings in text file
 ### Menu --help
 **Usage: [OPTIONS] STRING FILENAME**
 
