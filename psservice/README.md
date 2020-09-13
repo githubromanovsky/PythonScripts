@@ -1,6 +1,6 @@
-##Utility for check running nginx
+Utility for check running nginx
 
-**Usage:**  
+Usage
 Run script with sudo
 
 
