@@ -1,6 +1,6 @@
-##Utility for search strings in text file
-###Menu --help
-**Usage: [OPTIONS] STRING FILENAME**
+## Utility for search strings in text file
+### Menu --help
+**Usage: [OPTIONS] STRING FILENAME **
 
   Argument **STRING** and **FILENAME** is required  
 
@@ -11,6 +11,6 @@ Options:
   **-v**      Output string inversion  
   **--help**  Show this message and exit  
 
-#Setup
+# Setup
 
 **pip install click**
